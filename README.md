@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, AI and Computer Science
 - 🌱 I’m currently learning JS, Python
 - 💞️ I’m looking to collaborate on GitHub and Replit
-- 📫 How to reach me: Not now! Wait til I am a professional Software Engineer.
+- 📫 How to reach me: Not right now! Wait til I am a real Software Engineer (coming very soon).
 
 <!---
 derekpeterson-plutus/derekpeterson-plutus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
