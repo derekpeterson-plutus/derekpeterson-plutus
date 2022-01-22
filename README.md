@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @derekpeterson-plutus
-- 👀 I’m interested in ML, AI and Everything Tech.
+- 👋 Hi, I’m Derek, I am a Future Software Engineer.
+- 👀 I’m interested in ML, AI and Everything Technology.
 - 🌱 I’m currently learning JS, Python and a whole bunch of other computer languages.
 - 💞️ I’m looking to collaborate with other Software Engineers on GitHub.
 - 📫 How to reach me: plutus.derekpeterson@gmail.com
