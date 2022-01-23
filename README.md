@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Derek, I am a Future Software Engineer.
+- 👋 Hi, I’m Derek, I am a Full Stack Web Developer [in training]
 - 👀 I’m interested in ML, AI and Everything Technology.
 - 🌱 I’m currently learning JS, Python and a whole bunch of other computer languages.
 - 💞️ I’m looking to collaborate with other Software Engineers on GitHub.
