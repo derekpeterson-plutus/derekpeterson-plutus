@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Derek, I am a Pursuit Fellow | Full Stack Web Developer.
 - 👀 I’m interested in ML, AI and Everything Technology.
-- 🌱 I’m currently learning JavaScript, HTML, CSS.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React.
 - 💞️ I’m looking to collaborate with other Software Engineers on GitHub.
 - 📫 How to reach me: https://www.linkedin.com/in/derekpeterson-plutus/
 
