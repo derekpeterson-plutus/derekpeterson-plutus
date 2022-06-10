@@ -4,7 +4,9 @@
 <h3 align="left">const myProfession = 'Full-Stack Web Developer'</h3>
 <h3 align="left">const myLocation = 'New York City'</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derekpeterson-plutus" alt="derekpeterson-plutus" /></a> </p>
 
