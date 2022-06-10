@@ -4,6 +4,7 @@
 <h4 align="left">myProfession: 'Full-Stack Web Developer',</h4>
 <h4 align="left">myOffice = 'New York City',</h4>
 <h4 align="left">myATeam = 'Pursuit 8.3',</h4>
+<h4 align="left">myAmazingSquad = 'Enemy Of Syntax',</h4>
 <h4 align="left">}</h4>
 
 
