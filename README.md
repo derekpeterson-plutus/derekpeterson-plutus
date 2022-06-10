@@ -1,6 +1,8 @@
-<h1 align="center">HELLO WORLD 👋, I'm Derek</h1>
+<h1 align="center">HELLO WORLD 👋!</h1>
 <h3>About Me:</h3>
-<h3 align="center">A passionate Full-Stack Developer from NYC</h3>
+<h3>const myName = 'Derek'</h3>
+<h3 align="center">const myProfession = 'Full-Stack Web Developer'</h3>
+<h3>const myLocation = 'New York City'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
 
