@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD 👋!</h1>
+<h1 align="center">HELLO WORLD 👋! Welcome to my GitHub!</h1>
 <h4>About Me:</h4>
 <h4 align="left">const myName = 'Derek'</h4>
 <h4 align="left">const myProfession = 'Full-Stack Web Developer'</h4>
