@@ -1,5 +1,5 @@
 <h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
-<h4>cont aboutMe = {</h4>
+<h4>const aboutMe = {</h4>
 <h4 align="left">myName: 'Derek',</h4>
 <h4 align="left">myProfession: 'Full-Stack Web Developer',</h4>
 <h4 align="left">myOffice: 'New York City',</h4>
