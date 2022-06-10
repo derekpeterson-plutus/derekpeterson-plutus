@@ -1,8 +1,10 @@
 <h1 align="center">HELLO WORLD 👋! Welcome to my GitHub!</h1>
-<h4>About Me:</h4>
-<h4 align="left">const myName = 'Derek'</h4>
-<h4 align="left">const myProfession = 'Full-Stack Web Developer'</h4>
-<h4 align="left">const myLocation = 'New York City'</h4>
+<h4>cont aboutMe = {</h4>
+<h4 align="left">myName: 'Derek',</h4>
+<h4 align="left">myProfession: 'Full-Stack Web Developer',</h4>
+<h4 align="left">myOffice = 'New York City',</h4>
+<h4 align="left">myATeam = 'Pursuit 8.3',</h4>
+<h4 align="left">}</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
