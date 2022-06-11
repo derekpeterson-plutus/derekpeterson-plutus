@@ -9,6 +9,8 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derekpeterson-plutus" alt="derekpeterson-plutus" /></a> </p>
 
 - 🔭 I’m currently working on **React projects**
@@ -17,7 +19,7 @@
 
 - 👯 I’m looking to collaborate with other **Software Engineers on GitHub**
 
-- 📫 let howToReachMe = **'plutus.derekpeterson@gmail.com'**
+- 📫 Let howToReachMe = **'plutus.derekpeterson@gmail.com'**
 
 - ⚡ let funFact = **'I am taking care of an army of red-wigglers.'**
 
@@ -35,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derekpeterson-plutus&" alt="derekpeterson-plutus" /></p>
-
