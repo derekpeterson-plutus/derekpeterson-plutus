@@ -8,11 +8,6 @@
 <h4 align="left">}</h4>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derekpeterson-plutus" alt="derekpeterson-plutus" /></a> </p>
-
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A passionate Full-Stack Developer from NYC</h3>
 
@@ -20,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derekpeterson-plutus" alt="derekpeterson-plutus" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@derek98300801" target="blank"><img src="https://img.shields.io/twitter/follow/@derek98300801?logo=twitter&style=for-the-badge" alt="@derek98300801" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@plutusmercurius" target="blank"><img src="https://img.shields.io/twitter/follow/@plutusmercurius?logo=twitter&style=for-the-badge" alt="@plutusmercurius" /></a> </p>
 
 - 🔭 I’m currently working on **React Redux with Material-UI projects**
 
@@ -34,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@derek98300801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@derek98300801" height="30" width="40" /></a>
+<a href="https://twitter.com/@plutusmercurius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@plutusmercurius" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/derekpeterson-plutus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/derekpeterson-plutus" height="30" width="40" /></a>
 <a href="https://discord.gg/plutusmercurius#6280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="plutusmercurius#6280" height="30" width="40" /></a>
 </p>
