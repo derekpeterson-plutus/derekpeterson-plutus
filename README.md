@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on **React Redux with Material-UI projects**
 
-- 🌱 I’m currently learning **Java, Python, React**
+- 🌱 I’m currently learning **Java and Python**
 
 - 👯 I’m looking to collaborate with other **Software Engineers on GitHub**
 
-- 📫 Let howToReachMe = **'plutus.derekpeterson@gmail.com'**
+- 📫 let howToReachMe = **'plutus.derekpeterson@gmail.com'**
 
 - ⚡ let funFact = **'I am taking care of an army of red-wigglers.'**
 
