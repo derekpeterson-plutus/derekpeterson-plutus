@@ -53,5 +53,5 @@
 <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
 
 <div align="center">
-  <h1 align="center">THANK YOU 🙏🏻 FOR VISITING MY GITHUB! SEE YOU AGAIN SOON!</h1>
+  <h3 align="center">THANK YOU 🙏🏻 FOR VISITING MY GITHUB! SEE YOU AGAIN SOON!</h3>
 </div>
