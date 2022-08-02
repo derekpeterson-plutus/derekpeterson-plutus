@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekpeterson-plutus&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
+<p>&nbsp;<img style={{backgroundColor: 'lightblue'}} align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
 
 
