@@ -39,7 +39,6 @@
 
 
 
-<p><img style={{color: 'white', backgroundColor: 'lightskyblue'}} align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekpeterson-plutus&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derekpeterson-plutus&" alt="derekpeterson-plutus" /></p>
