@@ -15,7 +15,7 @@
 
 <br/>
 
-<h3 align="center">You are visitor number: &nbsp; <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" height="30"/></h3>
+<h3 align="center">You are visitor number: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" height="30"/></h3>
 
 
 <h4>const aboutMe = {</h4>
