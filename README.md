@@ -11,9 +11,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="350"/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
 
 <h4>const aboutMe = {</h4>
 <h4 align="left">myName: 'Derek',</h4>
