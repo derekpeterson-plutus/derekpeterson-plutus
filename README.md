@@ -47,9 +47,9 @@
 
 <h3 align="left">:fire: My Stats :
   <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekpeterson-plutus&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekpeterson-plutus&theme=deepBlue&hide_border=true&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
 
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&theme=tokyonight&hide_border=true&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&theme=deepBlue&hide_border=true&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
    
 
 <div align="center">
