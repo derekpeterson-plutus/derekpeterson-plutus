@@ -46,9 +46,12 @@
 </p>
 
 <h3 align="left">:fire: My Stats :
+  <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekpeterson-plutus&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
 
 <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=derekpeterson-plutus&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)  
 
 <div align="center">
   <h3 align="center">THANK YOU 🙏🏻 FOR VISITING MY GITHUB! SEE YOU AGAIN SOON!</h3>
