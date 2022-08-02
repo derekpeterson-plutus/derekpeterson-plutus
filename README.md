@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" border-radius:"10"/>
   <h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
 </div>
 
