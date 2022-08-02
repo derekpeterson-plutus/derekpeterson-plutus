@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" border-radius:"10"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
 </div>
 
@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on **React Redux with Material-UI projects**
+- 🔭 I’m currently working on **ReactJS, ExpressJS to build projects**
 
 - 🌱 I’m currently learning **Java and Python**
 
@@ -47,5 +47,5 @@
 <p style={{backgroundColor: 'lightblue'}}>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
 
 <div align="center">
-  <h1 align="center">THANK YOU FOR VISITING MY GITHUB! SEE YOU NEXT TIME</h1>
+  <h1 align="center">THANK YOU 🙏🏻 FOR VISITING MY GITHUB! SEE YOU AGAIN SOON!</h1>
 </div>
