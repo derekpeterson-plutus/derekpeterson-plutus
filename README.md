@@ -10,12 +10,12 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="350"  align="center"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="350"/>
 </div>
 
 <br/>
 
-<h3 align="center">You are visitor number: </h3><img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" height="30"/>
+<h3 align="center">You are visitor number:<img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" height="30"/></h3>
 
 
 <h4>const aboutMe = {</h4>
