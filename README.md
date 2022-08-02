@@ -11,6 +11,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="350"/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
 </div>
 
 
@@ -23,12 +24,7 @@
 <h4 align="left">}</h4>
 
 
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p> -->
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
 
 
 - 🔭 I’m currently working on **ReactJS, ExpressJS to build projects**
