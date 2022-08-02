@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
-
 </div>
 
 
@@ -47,4 +46,6 @@
 
 <p style={{backgroundColor: 'lightblue'}}>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
 
-
+<div align="center">
+  <h1 align="center">THANK YOU FOR VISITING MY GITHUB! SEE YOU NEXT TIME</h1>
+</div>
