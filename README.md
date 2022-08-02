@@ -38,6 +38,6 @@
 </p>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
 
 
