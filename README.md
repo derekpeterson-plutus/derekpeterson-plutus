@@ -1,5 +1,9 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
+
+</div>
+
 
 <h4>const aboutMe = {</h4>
 <h4 align="left">myName: 'Derek',</h4>
