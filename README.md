@@ -30,7 +30,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 
-- 🔭 I’m currently working on **ReactJS, ExpressJS to build projects**
+- 🔭 I’m currently working on **ReactJS, ExpressJS for Full-Stack projects**
 
 - 🌱 I’m currently learning **Java and Python**
 
