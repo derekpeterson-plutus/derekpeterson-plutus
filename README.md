@@ -3,6 +3,10 @@
   <h1 align="center">HELLO WORLD 👋! WELCOME TO MY GITHUB!</h1>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div align='center'>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -25,7 +29,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
