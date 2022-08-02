@@ -15,7 +15,7 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" height="35"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=derekpeterson-plutus&label=Profile%20views&color=0e75b6&style=flat" alt="derekpeterson-plutus" height="30"/> </p>
 
 <h4>const aboutMe = {</h4>
 <h4 align="left">myName: 'Derek',</h4>
