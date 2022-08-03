@@ -54,5 +54,5 @@
    
   
 <div align="center">
-  <h3 align="center"> 🙏🏻 FOR VISITING MY GITHUB! SEE YOU AGAIN SOON! ♥️</h3>
+  <h3 align="center"> 🙏🏻 FOR VISITING MY GITHUB PROFILE AND SEE YOU AGAIN SOON! ♥️</h3>
 </div>
