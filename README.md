@@ -48,9 +48,9 @@
 
 <h3 align="left">:fire: Profile's Stats :fire: :</h3>
   <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekpeterson-plutus&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekpeterson-plutus&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" alt="derekpeterson-plutus" /></p>
 
-<p>&nbsp;  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=derekpeterson-plutus&theme=radical&hide_border=true&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
+<p>&nbsp;  <img  align="center" src="https://github-readme-stats.vercel.app/api/?username=derekpeterson-plutus&theme=radical&hide_border=true&show_icons=true&locale=en" alt="derekpeterson-plutus" /></p>
    
   
 <div align="center">
